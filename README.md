@@ -25,6 +25,7 @@ Em termos de tarefas, é necessário:
 
 • Mantenha a quantidade estocada de cada item e de cada receptáculo; 
 
-• Informe que peças em que quantidade devem ser estocadas ou buscadas em que receptáculos; 
+• Informe que peças em que quantidade devem ser estocadas ou buscadas em que receptáculos;
+
 As descrições acima apresentam resumidamente o que se espera deste sistema. Criatividade e proatividade são sempre bem-vindas.
 "
