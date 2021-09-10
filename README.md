@@ -17,10 +17,14 @@ O almoxarifado é de grande porte e constantemente há várias empilhadeiras cir
  
 Em termos de tarefas, é necessário:
  
-• Registro da chegada de produtos; 
+• Registro da chegada de produtos;
+
 • Instruções para estocagem (em que estrado, em que receptáculos); 
+
 • Instruções de busca para cada pedido dos clientes; 
+
 • Mantenha a quantidade estocada de cada item e de cada receptáculo; 
+
 • Informe que peças em que quantidade devem ser estocadas ou buscadas em que receptáculos; 
 As descrições acima apresentam resumidamente o que se espera deste sistema. Criatividade e proatividade são sempre bem-vindas.
 "
