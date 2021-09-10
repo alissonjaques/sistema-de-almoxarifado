@@ -1,5 +1,6 @@
 # sistema-de-almoxarifado
-###########################################  Sistema de Almoxarifado de um Conglomerado de Empresas ################################################
+
+SISTEMA DE ALMOXARIFADO DE UM CONGLOMERADO DE EMPRESAS
 
 O Problema:
 
