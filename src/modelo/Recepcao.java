@@ -52,8 +52,7 @@ public class Recepcao implements RecepcaoAlmoxarifado {
         ArrayList<Peca> listaDePecas = ordem.clone().getPecasOrdemDeCompra();
         ArrayList<Peca> remover = new ArrayList<>();
         ArrayList<Peca> adicionar = new ArrayList<>();
-        System.out.println("Aqui\n"+ listaDePecas);
-        System.out.println("Novamente\n");
+        
         for(int m = 0; m<quantidadePorPeca.length; m++){
             System.out.println(quantidadePorPeca[m]);
         }
